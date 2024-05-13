@@ -2,6 +2,7 @@
 title: |
   | Locally Adaptive Online
   | Functional Data Analysis
+subtitle: XIII FORO INTERNACIONAL DE ESTADÍSTICA APLICADA
 author:
 - Valentin Patilea$^\dagger$
 - Jeffrey S. Racine$^\ddagger$
